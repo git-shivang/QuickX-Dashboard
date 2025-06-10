@@ -6,6 +6,7 @@ This project showcases an interactive Power BI dashboard developed to compare th
 Designed for competitive analysis, the dashboard enables stakeholders to make data-driven decisions by clearly highlighting each platform's strengths and performance gaps.
 
 📊 Key Features:
+
 Side-by-side comparison of:
 
   -Total orders
