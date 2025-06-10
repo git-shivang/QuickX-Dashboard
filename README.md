@@ -8,15 +8,15 @@ Designed for competitive analysis, the dashboard enables stakeholders to make da
 📊 Key Features:
 Side-by-side comparison of:
 
-Total orders
+  -Total orders
 
-Revenue
+  -Revenue
 
-Average customer rating
+  -Average customer rating
 
-Return percentage
+  -Return percentage
 
-Share of customers acquired
+  -Share of customers acquired
 
 Revenue per customer calculation for each platform
 
