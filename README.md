@@ -1,42 +1,44 @@
 ⚡ QuickX Dashboard
+
 📊 Quick Commerce Platform Comparison (Power BI)
 
-An interactive Power BI dashboard designed to compare the performance of leading quick commerce platforms — Blinkit, Swiggy Instamart, and JioMart — across key operational and customer-centric metrics.
+An interactive Power BI dashboard designed to compare the performance of leading quick commerce platforms — Blinkit, Swiggy Instamart, and JioMart.
 
-This project focuses on competitive analysis, helping stakeholders identify strengths, weaknesses, and opportunities using clear, data-driven insights.
+This project helps stakeholders make data-driven decisions by highlighting strengths, weaknesses, and performance gaps.
 
 🚀 Overview
 
-The QuickX Dashboard enables a side-by-side evaluation of major players in the fast-growing quick commerce industry. It transforms raw data into actionable insights, making it easier to understand:
+The QuickX Dashboard enables side-by-side comparison of platforms across key metrics, helping analyze:
 
 Market positioning
 Customer value
 Operational efficiency
+
 ✨ Key Features
 
-📌 Comparative Analysis
+📌 Comparative Metrics
 Total Orders
 Total Revenue
 Average Customer Rating
 Return Percentage
 Customer Acquisition Share
 
-💡 Advanced Metrics
-Revenue per Customer calculation for each platform
-Intelligent "Winning Platform" indicator based on highest revenue per customer
+💡 Advanced Insights
+Revenue per Customer for each platform
+Dynamic "Winning Platform" based on highest revenue per customer
 
-🎛️ Interactive Experience
-Dynamic slicers and filters
-Drill-down capabilities
-Fully interactive visual storytelling via Power BI
+🎛️ Interactivity
+Slicers and filters
+Drill-down exploration
+Fully interactive Power BI visuals
 
 🧠 Insights You Can Derive
-Which platform generates the most value per customer
-Trade-offs between customer satisfaction and returns
-Market share distribution across competitors
-Performance gaps and growth opportunities
+Identify the most valuable platform per customer
+Compare satisfaction vs return rates
+Understand market share distribution
+Spot performance gaps and opportunities
 
 🛠️ Tech Stack
-Power BI – Data visualization & dashboard creation
-Data Modeling – Relationship building & metric calculations
-DAX (Data Analysis Expressions) – Custom KPIs and logic
+Power BI
+DAX (Data Analysis Expressions)
+Data Modeling
